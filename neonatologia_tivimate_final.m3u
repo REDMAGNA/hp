@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://TU_URL_RAW/neonatologia_epg_tivimate.xml"
+
+#EXTINF:-1 tvg-id="cam1" tvg-name="72 TX1" tvg-logo="https://www.hospitalpuebla.com.mx/assets/Logo3-RSB0S_Q6.png" group-title="Neonatología",72 TX1
+http://148.245.50.146:8888/cam1/index.m3u8
+
+#EXTINF:-1 tvg-id="cam2" tvg-name="74 TX2" tvg-logo="https://www.hospitalpuebla.com.mx/assets/Logo3-RSB0S_Q6.png" group-title="Neonatología",74 TX2
+http://148.245.50.146:8888/cam2/index.m3u8
+
+#EXTINF:-1 tvg-id="mosaico" tvg-name="70 Neonatología" tvg-logo="https://www.hospitalpuebla.com.mx/assets/Logo3-RSB0S_Q6.png" group-title="Neonatología",70 Neonatología
+http://148.245.50.146:8888/mosaico/index.m3u8
