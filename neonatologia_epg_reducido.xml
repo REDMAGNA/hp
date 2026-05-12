@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Hospital Puebla CCTV">
+  <channel id="cam1">
+    <display-name>72 TX1</display-name>
+    <icon src="https://www.hospitalpuebla.com.mx/assets/Logo3-RSB0S_Q6.png" />
+  </channel>
+  <channel id="cam2">
+    <display-name>74 TX2</display-name>
+    <icon src="https://www.hospitalpuebla.com.mx/assets/Logo3-RSB0S_Q6.png" />
+  </channel>
+  <channel id="mosaico">
+    <display-name>70 Neonatología</display-name>
+    <icon src="https://www.hospitalpuebla.com.mx/assets/Logo3-RSB0S_Q6.png" />
+  </channel>
+  <programme start="20260101000000 -0600" stop="20270101000000 -0600" channel="cam1">
+    <title lang="es">72 TX1 - En Vivo</title>
+    <sub-title lang="es">Monitoreo continuo 24/7</sub-title>
+    <desc lang="es">Transmisión TX1 en vivo. Señal interna de monitoreo hospitalario.</desc>
+    <category lang="es">CCTV</category>
+  </programme>
+  <programme start="20260101000000 -0600" stop="20270101000000 -0600" channel="cam2">
+    <title lang="es">74 TX2 - En Vivo</title>
+    <sub-title lang="es">Monitoreo continuo 24/7</sub-title>
+    <desc lang="es">Transmisión TX2 en vivo. Señal interna de monitoreo hospitalario.</desc>
+    <category lang="es">CCTV</category>
+  </programme>
+  <programme start="20260101000000 -0600" stop="20270101000000 -0600" channel="mosaico">
+    <title lang="es">70 Neonatología - En Vivo</title>
+    <sub-title lang="es">Monitoreo continuo 24/7</sub-title>
+    <desc lang="es">Vista general Neonatología. Señal interna de monitoreo hospitalario.</desc>
+    <category lang="es">CCTV</category>
+  </programme>
+</tv>
